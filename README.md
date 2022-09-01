@@ -1,4 +1,4 @@
-# fs_sc
+# Family Data Scrapper
 
 This script scrapes FamilySearch for each ID's name and their spouse(s)'s IDs, name, birth and death date using Python and Selenium.
 
